@@ -110,7 +110,7 @@
                 <p>Lorem ipsum dolor sit amet  Sint quod soluta obcaecati exercitationem facere omnis explicabo eos perferendis re io fugit perspiciatis sequi officiis commodi quos. Voluptatibus?</p>
                 <h3>med bakori</h3>
                 <span>traveler</span>
-                <img src="./Photo_ project/photo.jpeg" alt="">
+                <img src="./Photo_ project/beautifal.jpg" alt="">
             </div>
 
             <div class="swiper-slide slide">
